@@ -17,4 +17,4 @@ int a = 12;
 
 [Lien de Google](http://google.fr)
 
-![Mon image](https://consolidatedlabel.com/app/uploads/2007/10/high-res-300dpi.jpg)
+<!-- ![Mon image](https://consolidatedlabel.com/app/uploads/2007/10/high-res-300dpi.jpg) -->
